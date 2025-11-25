@@ -42,10 +42,9 @@ The current setup is essentially **a 2010–2013 era homelab revived from ewaste
 - More RAM (16GB -> 32GB minimum)
 - Newer CPU + board combo eventually  
 - Dedicated NAS machine  
-- Better airflow or case redesign  
-- Proper UPS  
-- Upgrading storage to NVMe if supported  
-- Stronger GPU or compute card  
+- Better airflow or case redesign
+- Stronger GPU or compute card
+- Better PSU 
 - Aiming to eventually build a calm late 2010s setup
 
 ---
