@@ -1,6 +1,6 @@
 # 🛠️ Hardware History & Evolution
 
-This file documents every major hardware component that has ever passed through the homelab — what the machine *started with*, what was *upgraded*, and what is *planned* for the future.
+This file documents every major hardware component that has ever passed through the homelab, what the machine *started with*, what was *upgraded*, and what is *planned* for the future.
 
 ---
 
