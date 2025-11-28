@@ -7,31 +7,26 @@ This file documents every major hardware component that has ever passed through 
 ## 🔄 Upgrades
 
 ### **Motherboard**
-- **Before:** H110  (forgot the exact model)
-- **After:** MSI H310  
-- **Reason:** Compatibility with newer cpus + general reliability improvements.
+- **Original:** GA-H110M-S2H
+- **Upgrade:** MSI H310M GAMING PLUS
 
 ### **CPU**
-- **Before:** Intel i3 (7th gen, also forgot the exact model)  
-- **After:** Intel i5-8600  
-- **Reason:** I expect a healthy sized jump in performance for virtualization, containers, and basically anything cpu bound.
+- **Original:** Intel i3 7100
+- **Upgrade:** Intel i5 8600 
 
 ### **Cooling System**
-- **Original:** Basic stock fan (was CRAZY dusty)  
-- **Upgrade #1:** Arctic Freezer Xtreme  
-- **Upgrade #2:** *Incoming* — AIO Liquid Cooler (forgot the exact model occurance #3 (i'll edit all these when i get home and take a look at everything again))
+- **Original: (since about 2022 until 2025)** Basic stock fan (was CRAZY dusty)  
+- **Upgrade: (28th November 2025)** Corsair AIO Liquid Cooler
 
 ---
 
 ## ➕ Added Hardware
 
 ### **RAM**
-- +4GB DDR4 stick → total **8GB DDR4**  
-- Humble but should be enough for lightweight VMs and testing environments.
+- +4GB DDR4 stick -> total **8GB DDR4**
 
 ### **GPU / Compute Accelerator**
-- **Added:** NVIDIA Tesla K40  
-- **Purpose:** CUDA, LLMs, compute tasks, experimentation.  
+- **Added:** NVIDIA Tesla K40 
 
 ---
 
@@ -45,7 +40,7 @@ The current setup is essentially **a 2010–2013 era homelab revived from ewaste
 - Better airflow or case redesign
 - Stronger GPU or compute card
 - Better PSU 
-- Aiming to eventually build a calm late 2010s setup
+- Aiming to eventually build a calm late 2010s - early 2020s setup
 
 ---
 
