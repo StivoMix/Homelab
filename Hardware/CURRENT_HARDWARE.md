@@ -25,9 +25,9 @@ This file lists the **current hardware state** of the homelab server.
 
 ## Storage
 
-- 1x HDD, ~300GB
-- 1x SSHD, 1TB
-- 1x SSD, ~250GB
+- SAMSUNG HD322HJ (320GB HDD)
+- Seagate ST1000LM014 1TB (1TB SSHD)
+- SanDisk SSD PLUS SDSSDA240G (240GB SSD)
 
 ---
 
