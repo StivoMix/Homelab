@@ -34,14 +34,8 @@ Expect:
 ---
 
 ## 💻 Current Hardware
-*(Will update as the build changes)*
 
-- **CPU:** Intel i5 8600.
-- **RAM:** A calm luh 8GB DDR4. Will definetly upgrade this whenever possible.
-- **Storage:** About 300GB of SSD storage and 1.3TB of HDD storage.
-- **Network Equipment:** Currently no additional network equipment aside from the home router and some tplink deco wifi extenders. Will prolly add a raspberry pi to the structure later on as well. 
-- **GPUs / Accelerators:** Nvidia Tesla K40 (will be used for lightweight LLMs), GeForce GTX 1050 (currently unused due to lack of an additional PCIex16 slot on the motherboard, will be used mainly for video processing and other lightweight services whenever implemented)
-
+- [You may see the current hardware in this file.](https://github.com/StivoMix/Homelab/blob/main/Hardware/CURRENT_HARDWARE.md)
 > Pictures might show up here eventually whenever the hardware issues are solved
 
 ---
