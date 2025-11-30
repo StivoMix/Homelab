@@ -47,12 +47,13 @@ Expect:
 ---
 
 ## 🛑 Current Problems
-- **BIOS password refusing to die** - i assume it has to do with the NVRAM, bridging the JBAT1 pins and removing the lithium battery leaves the password alive, will work on this whenever i get home.
+- **No problems at this moment:)**
 
 ---
 
 ## ✅ Fixed past problems (unordered)
-- **HDMI Issues** - fixed by removing the gpu from the PCIe slot and letting the integrated gpu in the cpu take priority + removing the i/o shield that blocked full passage for the hdmi cable (will put it back in the future)
+- **BIOS password refusing to die** - after numerous attempts of bridging the JBAT1 pins and messing with the lithium battery under different scenarios, nothing managed to work. Hence i gave the motherboard to my friend, the previous owner of the motherboard, who used more advanced tools in order to reset the password.
+- **HDMI Issues** - fixed by removing the gpu from the PCIe slot and letting the integrated gpu in the cpu take priority + removing the i/o shield that blocked full passage for the hdmi cable (will put it back in the future).
 
 ---
 
