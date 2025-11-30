@@ -41,8 +41,8 @@ Expect:
 ---
 
 ## 📅 Current Plans
-- **Reset BIOS password** - self explanatory
-- **Install proxmox** - currently planning to install Proxmox VE 7.4 to match the older hardware im using on my server. The installation usb is ready, i just have to fix the issue just above this one to get started with software in the first place.
+- **Set up LXCs and VMs** - a vpn is prioritized 
+- **Set up docker containers and services**
 
 ---
 
