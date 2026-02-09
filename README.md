@@ -43,11 +43,12 @@ Expect:
 ## 📅 Current Plans
 - **Set up LXCs and VMs** - a vpn is prioritized 
 - **Set up docker containers and services**
+- **Save money for ram** - goal is to get 2666mhz ddr4 2x32gb ramsticks, which could be challenging since those aren't really produced much anymore
 
 ---
 
 ## 🛑 Current Problems
-- **No problems at this moment:)**
+- **Ram prices**
 
 ---
 
